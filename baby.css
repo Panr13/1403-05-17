@@ -1,0 +1,20 @@
+.position-relative{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: yellow;
+    transform: translate(5rem);
+    transition: 2s;
+    
+
+}
+.position-absolute{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: blue;
+    transform: translate(5rem);
+    transition: 2s;
+}
